@@ -16,7 +16,9 @@
 
 Mouse-TitleBar-Hider es una herramienta simple desarrollada en AutoHotkey v2 para ocultar las barras de título de las ventanas en Windows mediante atajos de teclado y ratón.
 
-## [Descargar](https://github.com/JLCareglio/Mouse-TitleBar-Hider/releases/latest)
+## Descargar
+- [Última versión (v2.0)](https://github.com/JLCareglio/Mouse-TitleBar-Hider/releases/latest/download/Mouse-TitleBar-Hider.exe) (👍 recomendada)
+- [Versión anterior (v1.0)](https://github.com/JLCareglio/Mouse-TitleBar-Hider/releases/download/v1/Mouse-TitleBar-Hider.exe)
 
 ## Atajos disponibles para interactuar con una ventana
 
